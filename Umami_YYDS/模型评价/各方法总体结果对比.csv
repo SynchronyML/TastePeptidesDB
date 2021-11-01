@@ -1,0 +1,29 @@
+Label,variable,value
+Umami_SCM,Accuracy,0.7521367521367521
+Bitter_SCM,Accuracy,0.6666666666666666
+Bitter_BERT,Accuracy,0.7478632478632479
+Umami_YYDS,Accuracy,0.5726495726495726
+Umami_SCM,Precision,0.9222222222222223
+Bitter_SCM,Precision,0.9242424242424242
+Bitter_BERT,Precision,0.9120879120879121
+Umami_YYDS,Precision,0.5726495726495726
+Umami_SCM,Recall,0.6194029850746269
+Bitter_SCM,Recall,0.4552238805970149
+Bitter_BERT,Recall,0.6194029850746269
+Umami_YYDS,Recall,1.0
+Umami_SCM,F1,0.7410714285714285
+Bitter_SCM,F1,0.61
+Bitter_BERT,F1,0.7377777777777779
+Umami_YYDS,F1,0.7282608695652174
+Umami_SCM,Balanced_accuracy,0.7747014925373135
+Bitter_SCM,Balanced_accuracy,0.7026119402985074
+Bitter_BERT,Balanced_accuracy,0.7697014925373135
+Umami_YYDS,Balanced_accuracy,0.5
+Umami_SCM,Average Precision,0.7891759152953183
+Bitter_SCM,Average Precision,0.7327030349418409
+Bitter_BERT,Average Precision,0.7828986933464546
+Umami_YYDS,Average Precision,0.5726495726495726
+Umami_SCM,Matthews Corrcoef,0.5586514279140865
+Bitter_SCM,Matthews Corrcoef,0.4454724205345057
+Bitter_BERT,Matthews Corrcoef,0.547365007330796
+Umami_YYDS,Matthews Corrcoef,0.0

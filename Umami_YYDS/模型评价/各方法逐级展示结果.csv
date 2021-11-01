@@ -1,0 +1,309 @@
+Label,Len,variable,value
+Umami_SCM,4.0,Accuracy,0.8108108108108109
+Bitter_SCM,4.0,Accuracy,0.8378378378378378
+Bitter_BERT,4.0,Accuracy,0.8108108108108109
+Umami_YYDS,4.0,Accuracy,0.08108108108108109
+Umami_SCM,4.0,Precision,0.3
+Bitter_SCM,4.0,Precision,0.2
+Bitter_BERT,4.0,Precision,0.25
+Umami_YYDS,4.0,Precision,0.08108108108108109
+Umami_SCM,4.0,Recall,1.0
+Bitter_SCM,4.0,Recall,0.3333333333333333
+Bitter_BERT,4.0,Recall,0.6666666666666666
+Umami_YYDS,4.0,Recall,1.0
+Umami_SCM,4.0,F1,0.4615384615384615
+Bitter_SCM,4.0,F1,0.25
+Bitter_BERT,4.0,F1,0.36363636363636365
+Umami_YYDS,4.0,F1,0.15
+Umami_SCM,4.0,Balanced_accuracy,0.8970588235294117
+Bitter_SCM,4.0,Balanced_accuracy,0.6078431372549019
+Bitter_BERT,4.0,Balanced_accuracy,0.7450980392156863
+Umami_YYDS,4.0,Balanced_accuracy,0.5
+Umami_SCM,4.0,Average Precision,0.3
+Bitter_SCM,4.0,Average Precision,0.12072072072072074
+Bitter_BERT,4.0,Average Precision,0.19369369369369369
+Umami_YYDS,4.0,Average Precision,0.08108108108108109
+Umami_SCM,4.0,Matthews Corrcoef,0.4880935300919764
+Bitter_SCM,4.0,Matthews Corrcoef,0.1722116800484161
+Bitter_BERT,4.0,Matthews Corrcoef,0.32503185468271484
+Umami_YYDS,4.0,Matthews Corrcoef,0.0
+Umami_SCM,5.0,Accuracy,0.8928571428571429
+Bitter_SCM,5.0,Accuracy,0.6785714285714286
+Bitter_BERT,5.0,Accuracy,0.75
+Umami_YYDS,5.0,Accuracy,0.5714285714285714
+Umami_SCM,5.0,Precision,1.0
+Bitter_SCM,5.0,Precision,0.8888888888888888
+Bitter_BERT,5.0,Precision,0.9090909090909091
+Umami_YYDS,5.0,Precision,0.5714285714285714
+Umami_SCM,5.0,Recall,0.8125
+Bitter_SCM,5.0,Recall,0.5
+Bitter_BERT,5.0,Recall,0.625
+Umami_YYDS,5.0,Recall,1.0
+Umami_SCM,5.0,F1,0.896551724137931
+Bitter_SCM,5.0,F1,0.64
+Bitter_BERT,5.0,F1,0.7407407407407406
+Umami_YYDS,5.0,F1,0.7272727272727273
+Umami_SCM,5.0,Balanced_accuracy,0.90625
+Bitter_SCM,5.0,Balanced_accuracy,0.7083333333333333
+Bitter_BERT,5.0,Balanced_accuracy,0.7708333333333333
+Umami_YYDS,5.0,Balanced_accuracy,0.5
+Umami_SCM,5.0,Average Precision,0.9196428571428571
+Bitter_SCM,5.0,Average Precision,0.7301587301587301
+Bitter_BERT,5.0,Average Precision,0.7824675324675324
+Umami_YYDS,5.0,Average Precision,0.5714285714285714
+Umami_SCM,5.0,Matthews Corrcoef,0.806225774829855
+Bitter_SCM,5.0,Matthews Corrcoef,0.44151078568834795
+Bitter_BERT,5.0,Matthews Corrcoef,0.5488604301969738
+Umami_YYDS,5.0,Matthews Corrcoef,0.0
+Umami_SCM,6.0,Accuracy,0.7391304347826086
+Bitter_SCM,6.0,Accuracy,0.6521739130434783
+Bitter_BERT,6.0,Accuracy,0.7608695652173914
+Umami_YYDS,6.0,Accuracy,0.6086956521739131
+Umami_SCM,6.0,Precision,1.0
+Bitter_SCM,6.0,Precision,1.0
+Bitter_BERT,6.0,Precision,1.0
+Umami_YYDS,6.0,Precision,0.6086956521739131
+Umami_SCM,6.0,Recall,0.5714285714285714
+Bitter_SCM,6.0,Recall,0.42857142857142855
+Bitter_BERT,6.0,Recall,0.6071428571428571
+Umami_YYDS,6.0,Recall,1.0
+Umami_SCM,6.0,F1,0.7272727272727273
+Bitter_SCM,6.0,F1,0.6
+Bitter_BERT,6.0,F1,0.7555555555555554
+Umami_YYDS,6.0,F1,0.7567567567567568
+Umami_SCM,6.0,Balanced_accuracy,0.7857142857142857
+Bitter_SCM,6.0,Balanced_accuracy,0.7142857142857143
+Bitter_BERT,6.0,Balanced_accuracy,0.8035714285714286
+Umami_YYDS,6.0,Balanced_accuracy,0.5
+Umami_SCM,6.0,Average Precision,0.8322981366459627
+Bitter_SCM,6.0,Average Precision,0.7763975155279503
+Bitter_BERT,6.0,Average Precision,0.8462732919254659
+Umami_YYDS,6.0,Average Precision,0.6086956521739131
+Umami_SCM,6.0,Matthews Corrcoef,0.5855400437691199
+Bitter_SCM,6.0,Matthews Corrcoef,0.4763305116224668
+Bitter_BERT,6.0,Matthews Corrcoef,0.6138788892284813
+Umami_YYDS,6.0,Matthews Corrcoef,0.0
+Umami_SCM,7.0,Accuracy,0.7222222222222222
+Bitter_SCM,7.0,Accuracy,0.6944444444444444
+Bitter_BERT,7.0,Accuracy,0.7777777777777778
+Umami_YYDS,7.0,Accuracy,0.6111111111111112
+Umami_SCM,7.0,Precision,1.0
+Bitter_SCM,7.0,Precision,1.0
+Bitter_BERT,7.0,Precision,0.9375
+Umami_YYDS,7.0,Precision,0.6111111111111112
+Umami_SCM,7.0,Recall,0.5454545454545454
+Bitter_SCM,7.0,Recall,0.5
+Bitter_BERT,7.0,Recall,0.6818181818181818
+Umami_YYDS,7.0,Recall,1.0
+Umami_SCM,7.0,F1,0.7058823529411764
+Bitter_SCM,7.0,F1,0.6666666666666666
+Bitter_BERT,7.0,F1,0.7894736842105263
+Umami_YYDS,7.0,F1,0.7586206896551725
+Umami_SCM,7.0,Balanced_accuracy,0.7727272727272727
+Bitter_SCM,7.0,Balanced_accuracy,0.75
+Bitter_BERT,7.0,Balanced_accuracy,0.8051948051948052
+Umami_YYDS,7.0,Balanced_accuracy,0.5
+Umami_SCM,7.0,Average Precision,0.8232323232323233
+Bitter_SCM,7.0,Average Precision,0.8055555555555556
+Bitter_BERT,7.0,Average Precision,0.83364898989899
+Umami_YYDS,7.0,Average Precision,0.6111111111111112
+Umami_SCM,7.0,Matthews Corrcoef,0.5640760748177662
+Bitter_SCM,7.0,Matthews Corrcoef,0.529150262212918
+Bitter_BERT,7.0,Matthews Corrcoef,0.59883544993921
+Umami_YYDS,7.0,Matthews Corrcoef,0.0
+Umami_SCM,8.0,Accuracy,0.8387096774193549
+Bitter_SCM,8.0,Accuracy,0.7741935483870968
+Bitter_BERT,8.0,Accuracy,0.7741935483870968
+Umami_YYDS,8.0,Accuracy,0.6774193548387096
+Umami_SCM,8.0,Precision,1.0
+Bitter_SCM,8.0,Precision,1.0
+Bitter_BERT,8.0,Precision,1.0
+Umami_YYDS,8.0,Precision,0.6774193548387096
+Umami_SCM,8.0,Recall,0.7619047619047619
+Bitter_SCM,8.0,Recall,0.6666666666666666
+Bitter_BERT,8.0,Recall,0.6666666666666666
+Umami_YYDS,8.0,Recall,1.0
+Umami_SCM,8.0,F1,0.8648648648648648
+Bitter_SCM,8.0,F1,0.8
+Bitter_BERT,8.0,F1,0.8
+Umami_YYDS,8.0,F1,0.8076923076923077
+Umami_SCM,8.0,Balanced_accuracy,0.8809523809523809
+Bitter_SCM,8.0,Balanced_accuracy,0.8333333333333333
+Bitter_BERT,8.0,Balanced_accuracy,0.8333333333333333
+Umami_YYDS,8.0,Balanced_accuracy,0.5
+Umami_SCM,8.0,Average Precision,0.9231950844854071
+Bitter_SCM,8.0,Average Precision,0.8924731182795699
+Bitter_BERT,8.0,Average Precision,0.8924731182795699
+Umami_YYDS,8.0,Average Precision,0.6774193548387096
+Umami_SCM,8.0,Matthews Corrcoef,0.7126966450997984
+Bitter_SCM,8.0,Matthews Corrcoef,0.6262242910851495
+Bitter_BERT,8.0,Matthews Corrcoef,0.6262242910851495
+Umami_YYDS,8.0,Matthews Corrcoef,0.0
+Umami_SCM,9.0,Accuracy,0.4375
+Bitter_SCM,9.0,Accuracy,0.5
+Bitter_BERT,9.0,Accuracy,0.6875
+Umami_YYDS,9.0,Accuracy,0.75
+Umami_SCM,9.0,Precision,1.0
+Bitter_SCM,9.0,Precision,1.0
+Bitter_BERT,9.0,Precision,1.0
+Umami_YYDS,9.0,Precision,0.75
+Umami_SCM,9.0,Recall,0.25
+Bitter_SCM,9.0,Recall,0.3333333333333333
+Bitter_BERT,9.0,Recall,0.5833333333333334
+Umami_YYDS,9.0,Recall,1.0
+Umami_SCM,9.0,F1,0.4
+Bitter_SCM,9.0,F1,0.5
+Bitter_BERT,9.0,F1,0.7368421052631579
+Umami_YYDS,9.0,F1,0.8571428571428571
+Umami_SCM,9.0,Balanced_accuracy,0.625
+Bitter_SCM,9.0,Balanced_accuracy,0.6666666666666666
+Bitter_BERT,9.0,Balanced_accuracy,0.7916666666666667
+Umami_YYDS,9.0,Balanced_accuracy,0.5
+Umami_SCM,9.0,Average Precision,0.8125
+Bitter_SCM,9.0,Average Precision,0.8333333333333333
+Bitter_BERT,9.0,Average Precision,0.8958333333333334
+Umami_YYDS,9.0,Average Precision,0.75
+Umami_SCM,9.0,Matthews Corrcoef,0.2773500981126145
+Bitter_SCM,9.0,Matthews Corrcoef,0.3333333333333333
+Bitter_BERT,9.0,Matthews Corrcoef,0.5091750772173156
+Umami_YYDS,9.0,Matthews Corrcoef,0.0
+Umami_SCM,10.0,Accuracy,0.6
+Bitter_SCM,10.0,Accuracy,0.4666666666666667
+Bitter_BERT,10.0,Accuracy,0.8
+Umami_YYDS,10.0,Accuracy,0.7333333333333333
+Umami_SCM,10.0,Precision,1.0
+Bitter_SCM,10.0,Precision,1.0
+Bitter_BERT,10.0,Precision,1.0
+Umami_YYDS,10.0,Precision,0.7333333333333333
+Umami_SCM,10.0,Recall,0.45454545454545453
+Bitter_SCM,10.0,Recall,0.2727272727272727
+Bitter_BERT,10.0,Recall,0.7272727272727273
+Umami_YYDS,10.0,Recall,1.0
+Umami_SCM,10.0,F1,0.625
+Bitter_SCM,10.0,F1,0.42857142857142855
+Bitter_BERT,10.0,F1,0.8421052631578948
+Umami_YYDS,10.0,F1,0.846153846153846
+Umami_SCM,10.0,Balanced_accuracy,0.7272727272727273
+Bitter_SCM,10.0,Balanced_accuracy,0.6363636363636364
+Bitter_BERT,10.0,Balanced_accuracy,0.8636363636363636
+Umami_YYDS,10.0,Balanced_accuracy,0.5
+Umami_SCM,10.0,Average Precision,0.8545454545454545
+Bitter_SCM,10.0,Average Precision,0.806060606060606
+Bitter_BERT,10.0,Average Precision,0.9272727272727272
+Umami_YYDS,10.0,Average Precision,0.7333333333333333
+Umami_SCM,10.0,Matthews Corrcoef,0.42640143271122083
+Bitter_SCM,10.0,Matthews Corrcoef,0.30151134457776363
+Bitter_BERT,10.0,Matthews Corrcoef,0.6446583712203042
+Umami_YYDS,10.0,Matthews Corrcoef,0.0
+Umami_SCM,11.0,Accuracy,0.8571428571428571
+Bitter_SCM,11.0,Accuracy,0.42857142857142855
+Bitter_BERT,11.0,Accuracy,0.2857142857142857
+Umami_YYDS,11.0,Accuracy,0.8571428571428571
+Umami_SCM,11.0,Precision,1.0
+Bitter_SCM,11.0,Precision,1.0
+Bitter_BERT,11.0,Precision,1.0
+Umami_YYDS,11.0,Precision,0.8571428571428571
+Umami_SCM,11.0,Recall,0.8333333333333334
+Bitter_SCM,11.0,Recall,0.3333333333333333
+Bitter_BERT,11.0,Recall,0.16666666666666666
+Umami_YYDS,11.0,Recall,1.0
+Umami_SCM,11.0,F1,0.9090909090909091
+Bitter_SCM,11.0,F1,0.5
+Bitter_BERT,11.0,F1,0.2857142857142857
+Umami_YYDS,11.0,F1,0.923076923076923
+Umami_SCM,11.0,Balanced_accuracy,0.9166666666666667
+Bitter_SCM,11.0,Balanced_accuracy,0.6666666666666666
+Bitter_BERT,11.0,Balanced_accuracy,0.5833333333333334
+Umami_YYDS,11.0,Balanced_accuracy,0.5
+Umami_SCM,11.0,Average Precision,0.9761904761904762
+Bitter_SCM,11.0,Average Precision,0.9047619047619049
+Bitter_BERT,11.0,Average Precision,0.8809523809523809
+Umami_YYDS,11.0,Average Precision,0.8571428571428571
+Umami_SCM,11.0,Matthews Corrcoef,0.6454972243679028
+Bitter_SCM,11.0,Matthews Corrcoef,0.2581988897471611
+Bitter_BERT,11.0,Matthews Corrcoef,0.16666666666666666
+Umami_YYDS,11.0,Matthews Corrcoef,0.0
+Umami_SCM,12.0,Accuracy,0.8
+Bitter_SCM,12.0,Accuracy,0.6
+Bitter_BERT,12.0,Accuracy,0.8
+Umami_YYDS,12.0,Accuracy,0.8
+Umami_SCM,12.0,Precision,1.0
+Bitter_SCM,12.0,Precision,1.0
+Bitter_BERT,12.0,Precision,1.0
+Umami_YYDS,12.0,Precision,0.8
+Umami_SCM,12.0,Recall,0.75
+Bitter_SCM,12.0,Recall,0.5
+Bitter_BERT,12.0,Recall,0.75
+Umami_YYDS,12.0,Recall,1.0
+Umami_SCM,12.0,F1,0.8571428571428571
+Bitter_SCM,12.0,F1,0.6666666666666666
+Bitter_BERT,12.0,F1,0.8571428571428571
+Umami_YYDS,12.0,F1,0.888888888888889
+Umami_SCM,12.0,Balanced_accuracy,0.875
+Bitter_SCM,12.0,Balanced_accuracy,0.75
+Bitter_BERT,12.0,Balanced_accuracy,0.875
+Umami_YYDS,12.0,Balanced_accuracy,0.5
+Umami_SCM,12.0,Average Precision,0.95
+Bitter_SCM,12.0,Average Precision,0.9
+Bitter_BERT,12.0,Average Precision,0.95
+Umami_YYDS,12.0,Average Precision,0.8
+Umami_SCM,12.0,Matthews Corrcoef,0.6123724356957946
+Bitter_SCM,12.0,Matthews Corrcoef,0.4082482904638631
+Bitter_BERT,12.0,Matthews Corrcoef,0.6123724356957946
+Umami_YYDS,12.0,Matthews Corrcoef,0.0
+Umami_SCM,13.0,Accuracy,0.6666666666666666
+Bitter_SCM,13.0,Accuracy,0.6666666666666666
+Bitter_BERT,13.0,Accuracy,0.6666666666666666
+Umami_YYDS,13.0,Accuracy,1.0
+Umami_SCM,13.0,Precision,1.0
+Bitter_SCM,13.0,Precision,1.0
+Bitter_BERT,13.0,Precision,1.0
+Umami_YYDS,13.0,Precision,1.0
+Umami_SCM,13.0,Recall,0.6666666666666666
+Bitter_SCM,13.0,Recall,0.6666666666666666
+Bitter_BERT,13.0,Recall,0.6666666666666666
+Umami_YYDS,13.0,Recall,1.0
+Umami_SCM,13.0,F1,0.8
+Bitter_SCM,13.0,F1,0.8
+Bitter_BERT,13.0,F1,0.8
+Umami_YYDS,13.0,F1,1.0
+Umami_SCM,13.0,Balanced_accuracy,0.6666666666666666
+Bitter_SCM,13.0,Balanced_accuracy,0.6666666666666666
+Bitter_BERT,13.0,Balanced_accuracy,0.6666666666666666
+Umami_YYDS,13.0,Balanced_accuracy,1.0
+Umami_SCM,13.0,Average Precision,1.0
+Bitter_SCM,13.0,Average Precision,1.0
+Bitter_BERT,13.0,Average Precision,1.0
+Umami_YYDS,13.0,Average Precision,1.0
+Umami_SCM,13.0,Matthews Corrcoef,0.0
+Bitter_SCM,13.0,Matthews Corrcoef,0.0
+Bitter_BERT,13.0,Matthews Corrcoef,0.0
+Umami_YYDS,13.0,Matthews Corrcoef,0.0
+Umami_SCM,14.0,Accuracy,0.875
+Bitter_SCM,14.0,Accuracy,0.25
+Bitter_BERT,14.0,Accuracy,0.625
+Umami_YYDS,14.0,Accuracy,0.75
+Umami_SCM,14.0,Precision,1.0
+Bitter_SCM,14.0,Precision,0.0
+Bitter_BERT,14.0,Precision,1.0
+Umami_YYDS,14.0,Precision,0.75
+Umami_SCM,14.0,Recall,0.8333333333333334
+Bitter_SCM,14.0,Recall,0.0
+Bitter_BERT,14.0,Recall,0.5
+Umami_YYDS,14.0,Recall,1.0
+Umami_SCM,14.0,F1,0.9090909090909091
+Bitter_SCM,14.0,F1,0.0
+Bitter_BERT,14.0,F1,0.6666666666666666
+Umami_YYDS,14.0,F1,0.8571428571428571
+Umami_SCM,14.0,Balanced_accuracy,0.9166666666666667
+Bitter_SCM,14.0,Balanced_accuracy,0.5
+Bitter_BERT,14.0,Balanced_accuracy,0.75
+Umami_YYDS,14.0,Balanced_accuracy,0.5
+Umami_SCM,14.0,Average Precision,0.9583333333333334
+Bitter_SCM,14.0,Average Precision,0.75
+Bitter_BERT,14.0,Average Precision,0.875
+Umami_YYDS,14.0,Average Precision,0.75
+Umami_SCM,14.0,Matthews Corrcoef,0.7453559924999299
+Bitter_SCM,14.0,Matthews Corrcoef,0.0
+Bitter_BERT,14.0,Matthews Corrcoef,0.4472135954999579
+Umami_YYDS,14.0,Matthews Corrcoef,0.0
